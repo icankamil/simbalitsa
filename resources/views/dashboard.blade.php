@@ -73,7 +73,7 @@
     </div>
     <div class="col-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/program" class="main-nav">
       <img src="storage/image/iconmenu-12.png" class="d-flex img-fluid">
       <h4 class="d-flex align-items-end font-weight-bold">Program</h4>
     </a>
@@ -89,7 +89,7 @@
     </div>
     <div class="col-3 offset-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/iprogram" class="main-nav">
       <img src="storage/image/iconmenu-14.png" class="d-flex img-fluid">
       <h4 class="d-flex align-items-end font-weight-bold">iProgram</h4>
 </a>
@@ -97,7 +97,7 @@
     </div>
     <div class="col-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/monev" class="main-nav">
       <img src="storage/image/iconmenu-15.png" class="d-flex img-fluid">
       <h4 class="d-flex align-items-end font-weight-bold">MONEV</h4>
 </a>

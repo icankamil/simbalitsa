@@ -7,10 +7,10 @@
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/anggaran" class="font-weight-bold">Anggaran</a></li>
-    <li class="breadcrumb-item active font-weight-bold" aria-current="page">Pelaksanaan Anggaran</li>
+    <li class="breadcrumb-item active font-weight-bold" aria-current="page">Petunjuk Operasional Kegiatan</li>
   </ol>
 </nav>
-<h4 class="font-weight-bold text-primary my-3"><u>Pelaksanaan Anggaran</u></h4>
+<h4 class="font-weight-bold text-primary my-3"><u>Petunjuk Operasional Kegiatan</u></h4>
 <h4 class="font-weight-bold text-primary">Form Input Data</h4>
 <div class="row no-gutters">
 <div class="col-6 pr-3">
@@ -49,7 +49,7 @@
 
 </div>
 </div>
-<h4 class="font-weight-bold text-primary my-3"><u>Daftar Pelaksanaan Anggaran</u></h4>
+<h4 class="font-weight-bold text-primary my-3"><u>Daftar Petunjuk Operasional Kegiatan</u></h4>
 <div class="row no-gutters">
 <div class="col-6">
 

@@ -4,7 +4,13 @@
 
 
 <div class="container-fluid">
-<h4 class="font-weight-bold text-primary my-3"><u>Pelaksanaan Anggaran</u></h4>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="/dashboard" class="font-weight-bold">Beranda</a></li>
+    <li class="breadcrumb-item active font-weight-bold" aria-current="page">Matrik</li>
+  </ol>
+</nav>
+<h4 class="font-weight-bold text-primary my-3"><u>Matrik</u></h4>
 <h4 class="font-weight-bold text-primary">Form Input Data</h4>
 <div class="row no-gutters">
 <div class="col-6 pr-3">
@@ -38,7 +44,7 @@
 
 </div>
 </div>
-<h4 class="font-weight-bold text-primary my-3"><u>Daftar Pelaksanaan Anggaran</u></h4>
+<h4 class="font-weight-bold text-primary my-3"><u>Daftar Matrik</u></h4>
 <div class="row no-gutters">
 <div class="col-6">
 

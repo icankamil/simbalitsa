@@ -6,11 +6,11 @@
 <div class="container-fluid">
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="/anggaran" class="font-weight-bold">Anggaran</a></li>
-    <li class="breadcrumb-item active font-weight-bold" aria-current="page">Pelaksanaan Anggaran</li>
+  <li class="breadcrumb-item"><a href="/dashboard" class="font-weight-bold">Beranda</a></li>
+    <li class="breadcrumb-item active font-weight-bold" aria-current="page">iProgram</li>
   </ol>
 </nav>
-<h4 class="font-weight-bold text-primary my-3"><u>Pelaksanaan Anggaran</u></h4>
+<h4 class="font-weight-bold text-primary my-3"><u>iProgram</u></h4>
 <h4 class="font-weight-bold text-primary">Form Input Data</h4>
 <div class="row no-gutters">
 <div class="col-6 pr-3">
@@ -21,7 +21,7 @@
   </div>
 
   <div class="form-group">
-    <label for="exampleInputEmail1" class="bmd-label-floating">Revisi Ke- (Kosongkan apabila belum revisi)</label>
+    <label for="exampleInputEmail1" class="bmd-label-floating">Judul Matrik</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
   </div>
 
@@ -40,16 +40,11 @@
     </div>
   </div>
 
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1" class="bmd-label-floating">Keterangan</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
-  </div>
-
   <button type="submit" class="btn btn-primary d-block ml-auto mt-5">Submit</button>
 
 </div>
 </div>
-<h4 class="font-weight-bold text-primary my-3"><u>Daftar Pelaksanaan Anggaran</u></h4>
+<h4 class="font-weight-bold text-primary my-3"><u>Daftar Matrik i-Program</u></h4>
 <div class="row no-gutters">
 <div class="col-6">
 
@@ -78,10 +73,10 @@
 <table class="table table-bordered table-light">
   <thead class="bg-primary">
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">No.</th>
+      <th scope="col">Tahun</th>
+      <th scope="col">Judul Matrik</th>
+      <th scope="col">Data Dukung</th>
     </tr>
   </thead>
   <tbody>

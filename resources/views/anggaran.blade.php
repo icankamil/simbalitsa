@@ -22,7 +22,7 @@
     </div>
     <div class="col-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/renjaanggaran" class="main-nav">
     <i class="material-icons md-72">assignment</i>
       <h4 class="d-flex align-items-end font-weight-bold">Renja Anggaran<br>Kementrian Lembaga</h4>
     </a>
@@ -30,7 +30,7 @@
     </div>
     <div class="col-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/petunjukoperasional" class="main-nav">
     <i class="material-icons md-72">info</i>
       <h4 class="d-flex align-items-end font-weight-bold">Petunjuk<br>Operasional Kegiatan</h4>
 </a>
@@ -38,7 +38,7 @@
     </div>
     <div class="col-3 offset-3 mt-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/datadukungdipa" class="main-nav">
     <i class="material-icons md-72">description</i>
       <h4 class="d-flex align-items-end font-weight-bold">Data Dukung<br>DIPA/RKAL</h4>
 </a>
@@ -46,7 +46,7 @@
     </div>
     <div class="col-3 mt-3">
     <div class="dash-nav">
-    <a href="#" class="main-nav">
+    <a href="/pagudana" class="main-nav">
     <i class="material-icons md-72">account_balance</i>
       <h4 class="d-flex align-items-end font-weight-bold">PAGU Dana</h4>
 </a>

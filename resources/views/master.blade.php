@@ -18,7 +18,7 @@
   <div class="container-fluid wadah">
   <div class="row justify-content-md-center align-items-center">
     <div class="col col-4 border-right">
-      <img src="storage/image/logo-07.png" class="img-fluid mx-auto d-block">
+      <img src="{{ asset('storage/image/logo-07.png') }}" class="img-fluid mx-auto d-block">
     </div>
     <div class="col col-4">
     <form action="/dashboard">
